@@ -22,8 +22,8 @@ title: UpTechSkill
 email: uptechskill@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Your spot to learn and start working on latest tech
-baseurl: "uptechskill.com" # the subpath of your site, e.g. /blog
-url: "http://uptechskill.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "test" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: uptechskill
 github_username:  uptechskill
 
